@@ -1,84 +1,153 @@
-```
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                          🩺 HEALTHCARE NEXUS 🩺                             ║
-║                     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━                      ║
-║                        Next-Gen Medical Ecosystem                           ║
-╚══════════════════════════════════════════════════════════════════════════════╝
-```
-
 <div align="center">
-<img src="./ChatGPT Image Jan 13, 2026, 08_48_57 AM.png" width="100%" style="border-radius: 20px; box-shadow: 0 20px 40px rgba(0,0,0,0.1);"/>
+
+# 🩺 HEALTHCARE NEXUS
+### *Revolutionary Medical Platform*
+
+<img src="./ChatGPT Image Jan 13, 2026, 08_48_57 AM.png" width="800" style="border-radius: 25px; margin: 20px 0;"/>
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=E74C3C&center=true&vCenter=true&width=800&lines=🏥+PATIENT+CARE+EXCELLENCE;👨‍⚕️+CLINICAL+DECISION+SUPPORT;⚙️+ADMINISTRATIVE+CONTROL;💊+MEDICATION+MANAGEMENT;📊+HEALTH+ANALYTICS)
+
 </div>
 
 ---
 
-## 🔬 **MEDICAL INTELLIGENCE MATRIX**
+<div align="center">
 
-```ascii
-    ┌─────────────────────────────────────────────────────────────┐
-    │  🏥 PATIENT CARE    │  👨‍⚕️ CLINICAL OPS   │  ⚙️ ADMIN CONTROL  │
-    ├─────────────────────┼─────────────────────┼─────────────────────┤
-    │  • Health Records   │  • Diagnosis Tools  │  • System Analytics │
-    │  • Appointments     │  • Treatment Plans  │  • User Management  │
-    │  • Telemedicine     │  • Prescriptions    │  • Compliance       │
-    │  • Billing          │  • Patient Tracking │  • Reports          │
-    └─────────────────────┴─────────────────────┴─────────────────────┘
-```
+## 🎯 **MEDICAL ECOSYSTEM OVERVIEW**
+
+</div>
+
+<table align="center">
+<tr>
+<td align="center" width="33%">
+
+### 🏥 **PATIENT PORTAL**
+*Empowering Health Management*
+
+<img src="./Patient Dashboard.png" width="300" style="border-radius: 15px; box-shadow: 0 8px 32px rgba(231, 76, 60, 0.3);"/>
+
+**Core Features:**
+- 📋 Medical History Access
+- 📅 Smart Appointment Booking  
+- 💬 Secure Provider Messaging
+- 💊 Medication Tracking
+
+</td>
+<td align="center" width="33%">
+
+### 👨‍⚕️ **DOCTOR DASHBOARD**
+*Clinical Excellence Platform*
+
+<img src="./Doctor Dashboard.png" width="300" style="border-radius: 15px; box-shadow: 0 8px 32px rgba(52, 152, 219, 0.3);"/>
+
+**Clinical Tools:**
+- 👥 Patient Management
+- 📝 Electronic Prescriptions
+- 🩺 Consultation Notes
+- 📊 Health Analytics
+
+</td>
+<td align="center" width="33%">
+
+### ⚙️ **ADMIN CONTROL**
+*System Command Center*
+
+<img src="./Admin Dashboard.png" width="300" style="border-radius: 15px; box-shadow: 0 8px 32px rgba(39, 174, 96, 0.3);"/>
+
+**Management Suite:**
+- 👨‍⚕️ Provider Oversight
+- 📈 System Analytics
+- 💰 Revenue Tracking
+- 🔒 Security Monitoring
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📸 **PORTAL SHOWCASE**
+<div align="center">
 
-<details>
-<summary>🏥 <strong>PATIENT EXPERIENCE CENTER</strong></summary>
-<br>
-<img src="./Patient Dashboard.png" width="100%" style="border: 3px solid #e74c3c; border-radius: 15px;"/>
-<blockquote>
-<em>"Your health journey, digitally transformed"</em>
-</blockquote>
-</details>
-
-<details>
-<summary>👨‍⚕️ <strong>PHYSICIAN COMMAND HUB</strong></summary>
-<br>
-<img src="./Doctor Dashboard.png" width="100%" style="border: 3px solid #3498db; border-radius: 15px;"/>
-<blockquote>
-<em>"Clinical excellence meets digital innovation"</em>
-</blockquote>
-</details>
-
-<details>
-<summary>⚙️ <strong>ADMINISTRATIVE NERVE CENTER</strong></summary>
-<br>
-<img src="./Admin Dashboard.png" width="100%" style="border: 3px solid #27ae60; border-radius: 15px;"/>
-<blockquote>
-<em>"Total healthcare ecosystem control"</em>
-</blockquote>
-</details>
-
----
-
-## ⚡ **TECH DNA**
+## ⚡ **TECHNOLOGY ARCHITECTURE**
 
 <table>
 <tr>
+<td align="center">
+
+**🎨 FRONTEND**
+```
+React.js     ████████████ 100%
+CSS3         ████████████ 100%
+Bootstrap    ████████████ 100%
+Socket.io    ████████████ 100%
+```
+
+</td>
+<td align="center">
+
+**⚙️ BACKEND**
+```
+Node.js      ████████████ 100%
+Express.js   ████████████ 100%
+MongoDB      ████████████ 100%
+JWT Auth     ████████████ 100%
+```
+
+</td>
+<td align="center">
+
+**🔐 SECURITY**
+```
+HIPAA        ████████████ 100%
+Encryption   ████████████ 100%
+Stripe API   ████████████ 100%
+Role Access  ████████████ 100%
+```
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🚀 **QUICK DEPLOYMENT**
+
+</div>
+
+<table align="center">
+<tr>
 <td width="50%">
 
-**🎯 FRONTEND ARSENAL**
-```yaml
-React.js: ████████████ 100%
-CSS3: ████████████ 100%
-Bootstrap: ████████████ 100%
+### 🔧 **Backend Setup**
+```bash
+cd backend
+npm install
+
+# Environment Configuration
+MONGODB_URI=mongodb://localhost:27017/healthcare_db
+JWT_SECRET=your_jwt_secret
+STRIPE_SECRET_KEY=your_stripe_secret_key
+
+npm run dev
 ```
 
 </td>
 <td width="50%">
 
-**🔧 BACKEND POWERHOUSE**
-```yaml
-Node.js: ████████████ 100%
-Express.js: ████████████ 100%
-MongoDB: ████████████ 100%
+### 🌐 **Frontend Launch**
+```bash
+cd frontend  
+npm install
+
+# Environment Variables
+VITE_API_URL=http://localhost:5000/api
+VITE_SOCKET_URL=http://localhost:5000
+
+npm run dev
 ```
 
 </td>
@@ -87,140 +156,106 @@ MongoDB: ████████████ 100%
 
 ---
 
-## 🚀 **DEPLOYMENT PROTOCOL**
-
 <div align="center">
 
-```mermaid
-graph TD
-    A[📦 Clone Repository] --> B[🔧 Backend Setup]
-    B --> C[🌐 Frontend Launch]
-    C --> D[🏥 Healthcare Ready]
-    
-    style A fill:#e74c3c,stroke:#c0392b,color:#fff
-    style B fill:#3498db,stroke:#2980b9,color:#fff
-    style C fill:#27ae60,stroke:#229954,color:#fff
-    style D fill:#f39c12,stroke:#e67e22,color:#fff
-```
+## 🏥 **ACCESS HIERARCHY**
 
-</div>
-
-### 🔧 **Backend Initialization**
-```bash
-# Navigate to backend
-cd backend && npm install
-
-# Environment Configuration
-echo "MONGODB_URI=mongodb://localhost:27017/healthcare_db
-JWT_SECRET=your_jwt_secret
-STRIPE_SECRET_KEY=your_stripe_secret_key" > .env
-
-# Launch Medical Server
-npm run dev
-```
-
-### 🌐 **Frontend Activation**
-```bash
-# Navigate to frontend
-cd frontend && npm install
-
-# Environment Setup
-echo "VITE_API_URL=http://localhost:5000/api
-VITE_SOCKET_URL=http://localhost:5000" > .env
-
-# Deploy Healthcare Interface
-npm run dev
-```
-
----
-
-## 🏥 **MEDICAL HIERARCHY**
-
-<div align="center">
-
-| Role | Access Level | Capabilities |
-|------|-------------|-------------|
-| 🏥 **Patient** | `Level 1` | Medical Records, Appointments, Messaging |
-| 👨‍⚕️ **Doctor** | `Level 2` | Patient Management, Prescriptions, Consultations |
-| ⚙️ **Admin** | `Level 3` | System Control, Analytics, User Management |
+| **Role** | **Portal** | **Access Level** | **Key Features** |
+|:--------:|:----------:|:----------------:|:----------------:|
+| 🏥 **Patient** | `localhost:5173` | **Level 1** | Records • Appointments • Messaging |
+| 👨‍⚕️ **Doctor** | `localhost:5173/doctor` | **Level 2** | Patients • Prescriptions • Analytics |
+| ⚙️ **Admin** | `localhost:5173/admin` | **Level 3** | Full System • Reports • Management |
 
 </div>
 
 ---
 
-## 🔐 **SECURITY FORTRESS**
+<div align="center">
 
-```
-┌─────────────────────────────────────────────────────────────┐
-│                    🛡️ PROTECTION LAYERS                     │
-├─────────────────────────────────────────────────────────────┤
-│  JWT Authentication     ████████████████████████ 100%      │
-│  HIPAA Compliance      ████████████████████████ 100%      │
-│  Data Encryption       ████████████████████████ 100%      │
-│  Payment Security      ████████████████████████ 100%      │
-│  Role-Based Access     ████████████████████████ 100%      │
-└─────────────────────────────────────────────────────────────┘
-```
+## 💡 **INNOVATION HIGHLIGHTS**
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+**🔄 Real-Time**
+*Instant Communication*
+
+Live chat, notifications, and updates across all portals
+
+</td>
+<td align="center" width="25%">
+
+**💳 Payments**
+*Secure Billing*
+
+Integrated Stripe processing for consultations and services
+
+</td>
+<td align="center" width="25%">
+
+**📊 Analytics**
+*Smart Insights*
+
+Advanced reporting and health metrics visualization
+
+</td>
+<td align="center" width="25%">
+
+**🔒 Security**
+*HIPAA Compliant*
+
+Enterprise-grade encryption and access controls
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
-## 📊 **DATA ARCHITECTURE**
+<div align="center">
+
+## 🗄️ **DATA MODELS**
 
 <details>
-<summary><strong>🗄️ Database Blueprints</strong></summary>
+<summary><strong>📋 Core Schemas</strong></summary>
 
 ```javascript
-// User Entity Schema
-const HealthcareUser = {
+// Healthcare User
+{
   name: String,
   email: String,
-  password: String,
   role: ['patient', 'doctor', 'admin'],
-  profileImage: String,
   specialization: String,
-  consultationFee: Number
+  consultationFee: Number,
+  profileImage: String
 }
 
-// Appointment Entity Schema
-const MedicalAppointment = {
+// Medical Appointment  
+{
   patient: ObjectId,
   doctor: ObjectId,
   date: Date,
   time: String,
   status: ['scheduled', 'completed', 'cancelled'],
-  consultationFee: Number,
   paymentStatus: String
 }
 ```
 
 </details>
 
----
-
-## 🌐 **ACCESS MATRIX**
-
-<div align="center">
-
-```
-🏥 Patient Portal ────────► http://localhost:5173
-👨‍⚕️ Doctor Hub ──────────► http://localhost:5173/doctor
-⚙️ Admin Center ─────────► http://localhost:5173/admin
-```
-
 </div>
 
 ---
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║                    🏥 HEALTHCARE NEXUS 🏥                    ║
-║              Revolutionizing Medical Technology              ║
-║                     Built with ❤️ for Health                ║
-╚══════════════════════════════════════════════════════════════╝
-```
+**🏥 HEALTHCARE NEXUS** • *Transforming Medical Care Through Technology*
 
-**⚡ Powered by Innovation | 🔒 Secured by Design | 🏥 Trusted by Healthcare**
+[![Made with ❤️](https://img.shields.io/badge/Made%20with-❤️-red.svg)](https://github.com/yourusername)
+[![HIPAA Compliant](https://img.shields.io/badge/HIPAA-Compliant-green.svg)](https://www.hhs.gov/hipaa)
+[![Secure](https://img.shields.io/badge/Security-Enterprise-blue.svg)](https://stripe.com/security)
 
 </div>
