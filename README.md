@@ -272,7 +272,6 @@ Enterprise-grade encryption and access controls
 
 <br>
 
-[![Made with ❤️](https://img.shields.io/badge/Made%20with-❤️-red.svg)]([https://github.com/hemahemapathi])
 
 
 </div>
