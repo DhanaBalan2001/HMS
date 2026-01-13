@@ -76,11 +76,60 @@ app.get('/', (req, res) => {
   res.json({
     title: "HMS API Documentation",
     version: "1.0.0",
+    baseUrl: req.protocol + '://' + req.get('host'),
     endpoints: {
-      auth: "POST /auth/login, POST /auth/register",
-      appointments: "GET /appointments, POST /appointments",
-      doctors: "GET /doctors",
-      health: "GET /health"
+      auth: {
+        login: "POST /auth/login",
+        register: "POST /auth/register",
+        profile: "GET /auth/profile",
+        logout: "POST /auth/logout"
+      },
+      appointments: {
+        create: "POST /appointments",
+        list: "GET /appointments",
+        update: "PUT /appointments/:id",
+        delete: "DELETE /appointments/:id",
+        byDoctor: "GET /appointments/doctor/:doctorId"
+      },
+      doctors: {
+        list: "GET /doctors",
+        profile: "GET /doctors/:id",
+        update: "PUT /doctors/:id",
+        availability: "GET /doctors/:id/availability"
+      },
+      healthRecords: {
+        create: "POST /health-records",
+        list: "GET /health-records",
+        byPatient: "GET /health-records/patient/:patientId",
+        upload: "POST /health-records/upload"
+      },
+      medications: {
+        create: "POST /medications",
+        list: "GET /medications",
+        update: "PUT /medications/:id",
+        delete: "DELETE /medications/:id"
+      },
+      admin: {
+        users: "GET /admin/users",
+        appointments: "GET /admin/appointments",
+        doctors: "GET /admin/doctors",
+        patients: "GET /admin/patients",
+        stats: "GET /admin/stats"
+      },
+      notifications: {
+        list: "GET /notifications",
+        markRead: "PUT /notifications/:id/read"
+      },
+      reviews: {
+        create: "POST /reviews",
+        list: "GET /reviews",
+        byDoctor: "GET /reviews/doctor/:doctorId"
+      },
+      healthScores: {
+        create: "POST /health-scores",
+        list: "GET /health-scores",
+        byPatient: "GET /health-scores/patient/:patientId"
+      }
     }
   });
 });
