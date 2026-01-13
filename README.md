@@ -17,6 +17,8 @@
 
 ## 🎯 **MEDICAL ECOSYSTEM OVERVIEW**
 
+<br>
+
 </div>
 
 <table align="center">
@@ -73,6 +75,8 @@
 
 ## ⚡ **TECHNOLOGY ARCHITECTURE**
 
+<br>
+
 <table>
 <tr>
 <td align="center">
@@ -120,6 +124,8 @@ Role Access  ████████████ 100%
 
 ## 🚀 **QUICK DEPLOYMENT**
 
+<br>
+
 </div>
 
 <table align="center">
@@ -164,6 +170,8 @@ npm run dev
 
 ## 🏥 **ACCESS HIERARCHY**
 
+<br>
+
 | **Role** | **Portal** | **Access Level** | **Key Features** |
 |:--------:|:----------:|:----------------:|:----------------:|
 | 🏥 **Patient** | `localhost:5173` | **Level 1** | Records • Appointments • Messaging |
@@ -177,6 +185,8 @@ npm run dev
 <div align="center">
 
 ## 💡 **INNOVATION HIGHLIGHTS**
+
+<br>
 
 <table>
 <tr>
@@ -223,6 +233,8 @@ Enterprise-grade encryption and access controls
 
 ## 🗄️ **DATA MODELS**
 
+<br>
+
 <details>
 <summary><strong>📋 Core Schemas</strong></summary>
 
@@ -257,6 +269,8 @@ Enterprise-grade encryption and access controls
 <div align="center">
 
 **🏥 HEALTHCARE NEXUS** • *Transforming Medical Care Through Technology*
+
+<br>
 
 [![Made with ❤️](https://img.shields.io/badge/Made%20with-❤️-red.svg)]([https://github.com/yourusername](https://github.com/hemahemapathi))
 
