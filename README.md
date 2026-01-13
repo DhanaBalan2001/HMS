@@ -28,7 +28,7 @@
 ### 🏥 **PATIENT PORTAL**
 *Empowering Health Management*
 
-<img width="400" height="400" alt="Image" src="https://github.com/user-attachments/assets/64b4928e-fd14-44be-825b-ac2f2ef51df9" />
+<img width="200" height="200" alt="Image" src="https://github.com/user-attachments/assets/64b4928e-fd14-44be-825b-ac2f2ef51df9" />
 
 **Core Features:**
 -      Medical History Access
@@ -42,7 +42,7 @@
 ### 👨‍⚕️ **DOCTOR DASHBOARD**
 *Clinical Excellence Platform*
 
-<img width="400" height="400" alt="Image" src="https://github.com/user-attachments/assets/39d852c3-a467-4b5e-be38-405234f29ee5" />
+<img width="200" height="200" alt="Image" src="https://github.com/user-attachments/assets/39d852c3-a467-4b5e-be38-405234f29ee5" />
 
 **Clinical Tools:**
 -     Patient Management
@@ -56,7 +56,7 @@
 ### ⚙️ **ADMIN CONTROL**
 *System Command Center*
 
-<img width="500" height="500" alt="Image" src="https://github.com/user-attachments/assets/952d0c8a-fa56-4030-8c98-3f39c00a4e66" />
+<img width="200" height="200" alt="Image" src="https://github.com/user-attachments/assets/952d0c8a-fa56-4030-8c98-3f39c00a4e66" />
 
 **Management Suite:**
 -     Provider Oversight
