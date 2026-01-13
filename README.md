@@ -31,10 +31,10 @@
 <img width="200" height="200" alt="Image" src="https://github.com/user-attachments/assets/64b4928e-fd14-44be-825b-ac2f2ef51df9" />
 
 **Core Features:**
-Medical History Access
-Smart Appointment Booking  
-Secure Provider Messaging
-Medication Tracking
+-     Medical History Access
+-     Smart Appointment Booking  
+-     Secure Provider Messaging
+-     Medication Tracking
 
 </td>
 <td align="center" width="33%">
