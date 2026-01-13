@@ -47,8 +47,10 @@ const io = new Server(server, {
 
 // Middleware
 app.use(cors({
-  origin:['https://healthapp-hemapathi.netlify.app','http://localhost:5173'],
-  credentials: true
+  origin: ['https://healthapp-hemapathi.netlify.app', 'http://localhost:5173'],
+  credentials: true,
+  methods: ['GET', 'POST', 'PUT', 'DELETE', 'OPTIONS'],
+  allowedHeaders: ['Content-Type', 'Authorization', 'Accept']
 }));
 app.use(express.json({ limit: '10mb' }));
 app.use(express.urlencoded({ extended: true, limit: '10mb' }));
