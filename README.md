@@ -1,13 +1,14 @@
 <div align="center">
 
 # 🩺 MEDICARE PLUS
-### *Revolutionary Medical Platform*
 
 <img width="500" height="500" alt="Image" src="https://github.com/user-attachments/assets/cf279b5d-8e8d-4750-9cf1-cd4fc01dba16" />
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=E74C3C&center=true&vCenter=true&width=800&lines=🏥+PATIENT+CARE+EXCELLENCE;👨‍⚕️+CLINICAL+DECISION+SUPPORT;⚙️+ADMINISTRATIVE+CONTROL;💊+MEDICATION+MANAGEMENT;📊+HEALTH+ANALYTICS)
 
 </div>
+
+
 
 
 <div align="center">
@@ -40,10 +41,10 @@
 <img width="400" height="400" alt="Image" src="https://github.com/user-attachments/assets/39d852c3-a467-4b5e-be38-405234f29ee5" />
 
 **Clinical Tools:**
-- Patient Management
-- Electronic Prescriptions
-- Consultation Notes
-- Health Analytics
+-     Patient Management
+-     Electronic Prescriptions
+-     Consultation Notes
+-     Health Analytics
 
 </td>
 <td align="center" width="33%">
@@ -62,6 +63,8 @@
 </td>
 </tr>
 </table>
+
+
 
 
 <div align="center">
@@ -109,6 +112,8 @@ Role Access  ████████████ 100%
 </div>
 
 
+
+  
 <div align="center">
 
 ## 🚀 **QUICK DEPLOYMENT**
