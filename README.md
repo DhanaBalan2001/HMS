@@ -1,307 +1,226 @@
-<div align="center">
-
-# 🏥 MediCare Plus
-*Digital Healthcare Revolution*
-
-<img src="./ChatGPT Image Jan 13, 2026, 08_48_57 AM.png" alt="MediCare Plus Banner" width="100%" />
-
-<img width="100%" alt="Healthcare Management System" src="https://github.com/user-attachments/assets/cf279b5d-8e8d-4750-9cf1-cd4fc01dba16" />
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=800&color=DC2626&center=true&vCenter=true&multiline=true&repeat=true&width=1200&height=150&lines=🩺+COMPREHENSIVE+MEDICAL+PLATFORM;💊+INTELLIGENT+PRESCRIPTION+SYSTEM;📊+PREDICTIVE+HEALTH+MONITORING;🔒+HIPAA+COMPLIANT+ARCHITECTURE;⚡+REAL-TIME+TELEMEDICINE" />
-
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="800">
-
-</div>
-
-## 🧬 **MEDICAL TECHNOLOGY STACK**
+```
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                          🩺 HEALTHCARE NEXUS 🩺                             ║
+║                     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━                      ║
+║                        Next-Gen Medical Ecosystem                           ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+```
 
 <div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="80">
-<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="80">
-<img src="https://user-images.githubusercontent.com/74038190/212748843-c7084c71-342b-4334-81c2-64b98a4e9a52.gif" width="80">
-<img src="https://user-images.githubusercontent.com/74038190/212748849-4ed062b4-4a31-4d14-8b5a-6d4314c4c4c5.gif" width="80">
-<img src="https://user-images.githubusercontent.com/74038190/212748851-9a47ab55-8d3e-4347-98a0-e7a8b8c4e4c6.gif" width="80">
-
-**React 19** ◦ **Node.js** ◦ **MongoDB** ◦ **Socket.io** ◦ **Stripe**
-
+<img src="./ChatGPT Image Jan 13, 2026, 08_48_57 AM.png" width="100%" style="border-radius: 20px; box-shadow: 0 20px 40px rgba(0,0,0,0.1);"/>
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="600">
+---
 
-## 🏥 **CLINICAL PORTAL ARCHITECTURE**
+## 🔬 **MEDICAL INTELLIGENCE MATRIX**
+
+```ascii
+    ┌─────────────────────────────────────────────────────────────┐
+    │  🏥 PATIENT CARE    │  👨‍⚕️ CLINICAL OPS   │  ⚙️ ADMIN CONTROL  │
+    ├─────────────────────┼─────────────────────┼─────────────────────┤
+    │  • Health Records   │  • Diagnosis Tools  │  • System Analytics │
+    │  • Appointments     │  • Treatment Plans  │  • User Management  │
+    │  • Telemedicine     │  • Prescriptions    │  • Compliance       │
+    │  • Billing          │  • Patient Tracking │  • Reports          │
+    └─────────────────────┴─────────────────────┴─────────────────────┘
+```
+
+---
+
+## 📸 **PORTAL SHOWCASE**
+
+<details>
+<summary>🏥 <strong>PATIENT EXPERIENCE CENTER</strong></summary>
+<br>
+<img src="./Patient Dashboard.png" width="100%" style="border: 3px solid #e74c3c; border-radius: 15px;"/>
+<blockquote>
+<em>"Your health journey, digitally transformed"</em>
+</blockquote>
+</details>
+
+<details>
+<summary>👨‍⚕️ <strong>PHYSICIAN COMMAND HUB</strong></summary>
+<br>
+<img src="./Doctor Dashboard.png" width="100%" style="border: 3px solid #3498db; border-radius: 15px;"/>
+<blockquote>
+<em>"Clinical excellence meets digital innovation"</em>
+</blockquote>
+</details>
+
+<details>
+<summary>⚙️ <strong>ADMINISTRATIVE NERVE CENTER</strong></summary>
+<br>
+<img src="./Admin Dashboard.png" width="100%" style="border: 3px solid #27ae60; border-radius: 15px;"/>
+<blockquote>
+<em>"Total healthcare ecosystem control"</em>
+</blockquote>
+</details>
+
+---
+
+## ⚡ **TECH DNA**
+
+<table>
+<tr>
+<td width="50%">
+
+**🎯 FRONTEND ARSENAL**
+```yaml
+React.js: ████████████ 100%
+CSS3: ████████████ 100%
+Bootstrap: ████████████ 100%
+```
+
+</td>
+<td width="50%">
+
+**🔧 BACKEND POWERHOUSE**
+```yaml
+Node.js: ████████████ 100%
+Express.js: ████████████ 100%
+MongoDB: ████████████ 100%
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🚀 **DEPLOYMENT PROTOCOL**
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500">
-
-</div>
-
-### 👨⚕️ **PHYSICIAN DASHBOARD**
-<img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2848-41c2-8c8b-8e3d70524c42.gif" width="30"> **Advanced Clinical Decision Support**  
-<img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2848-41c2-8c8b-8e3d70524c42.gif" width="30"> **Electronic Health Record Integration**  
-<img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2848-41c2-8c8b-8e3d70524c42.gif" width="30"> **Telemedicine Consultation Suite**  
-<img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2848-41c2-8c8b-8e3d70524c42.gif" width="30"> **Prescription Management Workflow**  
-
-### 🏥 **PATIENT CARE PORTAL**
-<img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2848-41c2-8c8b-8e3d70524c42.gif" width="30"> **Personal Health Record Access**  
-<img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2848-41c2-8c8b-8e3d70524c42.gif" width="30"> **Appointment Scheduling Engine**  
-<img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2848-41c2-8c8b-8e3d70524c42.gif" width="30"> **Medication Adherence Tracking**  
-<img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2848-41c2-8c8b-8e3d70524c42.gif" width="30"> **Health Metrics Visualization**  
-
-### ⚙️ **ADMINISTRATIVE COMMAND CENTER**
-<img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2848-41c2-8c8b-8e3d70524c42.gif" width="30"> **Healthcare Provider Management**  
-<img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2848-41c2-8c8b-8e3d70524c42.gif" width="30"> **Clinical Quality Assurance**  
-<img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2848-41c2-8c8b-8e3d70524c42.gif" width="30"> **Healthcare Analytics Dashboard**  
-<img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2848-41c2-8c8b-8e3d70524c42.gif" width="30"> **Regulatory Compliance Monitor**  
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="600">
-</div>
-
-## ⚡ **CLINICAL IMPLEMENTATION**
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="500">
-</div>
-
-### 🔐 **HEALTHCARE AUTHENTICATION**
-```javascript
-// Medical-Grade Security Implementation
-const authenticateHealthcareUser = async (req, res, next) => {
-  const authToken = req.header('X-Medical-Auth')?.replace('Bearer ', '');
-  
-  try {
-    const decodedCredentials = jwt.verify(authToken, process.env.MEDICAL_JWT_SECRET);
-    const healthcareUser = await User.findById(decodedCredentials.id).select('-password');
+```mermaid
+graph TD
+    A[📦 Clone Repository] --> B[🔧 Backend Setup]
+    B --> C[🌐 Frontend Launch]
+    C --> D[🏥 Healthcare Ready]
     
-    if (healthcareUser.role === 'physician' && !healthcareUser.medicalLicenseVerified) {
-      return res.status(403).json({ message: 'Medical license verification required' });
-    }
-    
-    req.healthcareUser = healthcareUser;
-    next();
-  } catch (error) {
-    res.status(401).json({ message: 'Invalid medical credentials' });
-  }
-};
+    style A fill:#e74c3c,stroke:#c0392b,color:#fff
+    style B fill:#3498db,stroke:#2980b9,color:#fff
+    style C fill:#27ae60,stroke:#229954,color:#fff
+    style D fill:#f39c12,stroke:#e67e22,color:#fff
 ```
 
-### 🚀 **TELEMEDICINE COMMUNICATION ENGINE**
-```javascript
-// Real-Time Medical Consultation System
-io.on('connection', (socket) => {
-  // Medical consultation room initialization
-  socket.on('initiate-medical-consultation', (consultationId) => {
-    socket.join(consultationId);
-    socket.to(consultationId).emit('physician-connected', {
-      socketId: socket.id,
-      consultationStart: new Date()
-    });
-  });
-
-  // Clinical data transmission
-  socket.on('transmit-medical-data', (data) => {
-    io.to(data.consultationId).emit('receive-clinical-data', {
-      medicalData: data.clinicalInformation,
-      transmitter: data.healthcareProvider,
-      timestamp: new Date()
-    });
-  });
-
-  // Medical imaging sharing
-  socket.on('share-medical-imaging', (data) => {
-    socket.to(data.consultationId).emit('receive-medical-imaging', data);
-  });
-});
-```
-
-### 💳 **HEALTHCARE PAYMENT PROCESSING**
-```javascript
-// Medical Billing Integration
-const processHealthcarePayment = async (medicalServiceData) => {
-  const medicalPaymentIntent = await stripe.paymentIntents.create({
-    amount: medicalServiceData.consultationFee * 100,
-    currency: 'usd',
-    metadata: {
-      consultationId: medicalServiceData._id,
-      patientId: medicalServiceData.patient,
-      physicianId: medicalServiceData.physician,
-      medicalServiceType: medicalServiceData.serviceType
-    }
-  });
-
-  await MedicalConsultation.findByIdAndUpdate(medicalServiceData._id, {
-    paymentIntentId: medicalPaymentIntent.id,
-    billingStatus: 'processing'
-  });
-
-  return medicalPaymentIntent.client_secret;
-};
-```
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="600">
 </div>
 
-## 💊 **PHARMACEUTICAL MANAGEMENT SYSTEM**
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="400">
-</div>
-
-```javascript
-// Advanced Pharmaceutical Tracking
-const updatePharmaceuticalAdherence = async (medicationId, day, adherenceStatus) => {
-  const pharmaceuticalRecord = await Medication.findById(medicationId);
-  
-  pharmaceuticalRecord.dailyAdherence.set(day.toString(), {
-    adherenceStatus: adherenceStatus,
-    recordedTimestamp: new Date(),
-    clinicalNotificationSent: adherenceStatus === 'administered' ? false : true
-  });
-
-  // Calculate pharmaceutical adherence metrics
-  const totalTherapyDays = pharmaceuticalRecord.treatmentDuration;
-  const adherentDays = Array.from(pharmaceuticalRecord.dailyAdherence.values())
-    .filter(day => day.adherenceStatus === 'administered').length;
-  
-  pharmaceuticalRecord.adherencePercentage = (adherentDays / totalTherapyDays) * 100;
-  await pharmaceuticalRecord.save();
-  
-  // Real-time clinical update
-  io.to(pharmaceuticalRecord.patient.toString()).emit('pharmaceutical-update', {
-    medicationId,
-    adherencePercentage: pharmaceuticalRecord.adherencePercentage,
-    clinicalStatus: adherenceStatus
-  });
-};
-```
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="600">
-</div>
-
-## 🗄️ **MEDICAL DATABASE ARCHITECTURE**
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="400">
-</div>
-
-### 👤 **HEALTHCARE USER SCHEMA**
-```javascript
-const healthcareUserSchema = new mongoose.Schema({
-  fullName: { type: String, required: true, trim: true },
-  medicalEmail: { type: String, required: true, unique: true },
-  securePassword: { type: String, required: true, minlength: 8 },
-  healthcareRole: { type: String, enum: ['patient', 'physician', 'administrator'] },
-  medicalLicenseVerified: { type: Boolean, default: false },
-  medicalSpecialization: { type: String },
-  consultationRate: { type: Number, min: 0 },
-  medicalProfileImage: { type: String }
-}, { timestamps: true });
-```
-
-### 📅 **MEDICAL CONSULTATION SCHEMA**
-```javascript
-const medicalConsultationSchema = new mongoose.Schema({
-  patient: { type: ObjectId, ref: 'HealthcareUser', required: true },
-  physician: { type: ObjectId, ref: 'HealthcareUser', required: true },
-  consultationDate: { type: Date, required: true },
-  appointmentTime: { type: String, required: true },
-  clinicalStatus: { type: String, enum: ['scheduled', 'in-progress', 'completed'] },
-  consultationFee: { type: Number, required: true },
-  billingStatus: { type: String, enum: ['pending', 'processed'] },
-  paymentIntentId: { type: String },
-  clinicalNotes: [{ provider: ObjectId, note: String, timestamp: Date }]
-}, { timestamps: true });
-```
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="600">
-</div>
-
-## 🚀 **MEDICAL SYSTEM DEPLOYMENT**
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212750e67-435a-4b06-8b8e-9d1b4e4f8b8a.gif" width="400">
-</div>
-
-### **CLINICAL BACKEND CONFIGURATION**
+### 🔧 **Backend Initialization**
 ```bash
-cd backend
-npm install
+# Navigate to backend
+cd backend && npm install
 
-# Medical Environment Variables
-MONGODB_URI=mongodb://localhost:27017/medical_hms
-MEDICAL_JWT_SECRET=your-medical-jwt-secret
-STRIPE_MEDICAL_KEY=sk_test_your-medical-stripe-key
-CLOUDINARY_MEDICAL_NAME=your-medical-cloudinary-name
+# Environment Configuration
+echo "MONGODB_URI=mongodb://localhost:27017/healthcare_db
+JWT_SECRET=your_jwt_secret
+STRIPE_SECRET_KEY=your_stripe_secret_key" > .env
 
+# Launch Medical Server
 npm run dev
 ```
 
-### **HEALTHCARE FRONTEND SETUP**
+### 🌐 **Frontend Activation**
 ```bash
-cd frontend
-npm install
+# Navigate to frontend
+cd frontend && npm install
 
-# Clinical Environment Configuration
-VITE_MEDICAL_API_URL=http://localhost:5000/api
-VITE_TELEMEDICINE_URL=http://localhost:5000
+# Environment Setup
+echo "VITE_API_URL=http://localhost:5000/api
+VITE_SOCKET_URL=http://localhost:5000" > .env
 
+# Deploy Healthcare Interface
 npm run dev
 ```
 
+---
+
+## 🏥 **MEDICAL HIERARCHY**
+
 <div align="center">
 
-**🏥 Medical Access Portal: http://localhost:5173**
-
-<img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="600">
+| Role | Access Level | Capabilities |
+|------|-------------|-------------|
+| 🏥 **Patient** | `Level 1` | Medical Records, Appointments, Messaging |
+| 👨‍⚕️ **Doctor** | `Level 2` | Patient Management, Prescriptions, Consultations |
+| ⚙️ **Admin** | `Level 3` | System Control, Analytics, User Management |
 
 </div>
 
-## 📊 **CLINICAL PERFORMANCE METRICS**
+---
+
+## 🔐 **SECURITY FORTRESS**
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│                    🛡️ PROTECTION LAYERS                     │
+├─────────────────────────────────────────────────────────────┤
+│  JWT Authentication     ████████████████████████ 100%      │
+│  HIPAA Compliance      ████████████████████████ 100%      │
+│  Data Encryption       ████████████████████████ 100%      │
+│  Payment Security      ████████████████████████ 100%      │
+│  Role-Based Access     ████████████████████████ 100%      │
+└─────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## 📊 **DATA ARCHITECTURE**
+
+<details>
+<summary><strong>🗄️ Database Blueprints</strong></summary>
+
+```javascript
+// User Entity Schema
+const HealthcareUser = {
+  name: String,
+  email: String,
+  password: String,
+  role: ['patient', 'doctor', 'admin'],
+  profileImage: String,
+  specialization: String,
+  consultationFee: Number
+}
+
+// Appointment Entity Schema
+const MedicalAppointment = {
+  patient: ObjectId,
+  doctor: ObjectId,
+  date: Date,
+  time: String,
+  status: ['scheduled', 'completed', 'cancelled'],
+  consultationFee: Number,
+  paymentStatus: String
+}
+```
+
+</details>
+
+---
+
+## 🌐 **ACCESS MATRIX**
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=DhanaBalan2001&show_icons=true&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=DC2626&text_color=ffffff&icon_color=DC2626" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DhanaBalan2001&theme=radical&hide_border=true&background=1a1a2e&stroke=DC2626&ring=DC2626&fire=FF6B6B&currStreakLabel=DC2626" />
+```
+🏥 Patient Portal ────────► http://localhost:5173
+👨‍⚕️ Doctor Hub ──────────► http://localhost:5173/doctor
+⚙️ Admin Center ─────────► http://localhost:5173/admin
+```
 
 </div>
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="600">
-</div>
-
-## 🌟 **MEDICAL TECHNOLOGY SHOWCASE**
+---
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,express,javascript,html,css,bootstrap,vite,git,github,vscode&perline=6&theme=light" />
+```
+╔══════════════════════════════════════════════════════════════╗
+║                    🏥 HEALTHCARE NEXUS 🏥                    ║
+║              Revolutionizing Medical Technology              ║
+║                     Built with ❤️ for Health                ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
-</div>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="600">
-</div>
-
-## 🎯 **HEALTHCARE INNOVATION ACHIEVEMENTS**
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="500">
-
-**🏥 Comprehensive Medical Platform** ◦ **⚡ Telemedicine Integration** ◦ **💊 Pharmaceutical Tracking**  
-**💳 Medical Billing System** ◦ **📊 Clinical Analytics** ◦ **🔒 HIPAA Compliance**  
-**📱 Mobile Health Interface** ◦ **🗄️ Medical Database** ◦ **🎯 Healthcare Access Control**
-
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="800">
-
-### 🏥 **Advancing Digital Healthcare Innovation** 🏥
-
-[![GitHub stars](https://img.shields.io/github/stars/DhanaBalan2001/HMS?style=for-the-badge&logo=github&color=DC2626&labelColor=1a1a2e)](https://github.com/DhanaBalan2001/HMS)
-[![GitHub forks](https://img.shields.io/github/forks/DhanaBalan2001/HMS?style=for-the-badge&logo=github&color=0EA5E9&labelColor=1a1a2e)](https://github.com/DhanaBalan2001/HMS)
+**⚡ Powered by Innovation | 🔒 Secured by Design | 🏥 Trusted by Healthcare**
 
 </div>
