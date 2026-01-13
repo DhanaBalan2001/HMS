@@ -1,306 +1,307 @@
 <div align="center">
 
-# 🩺 MediCare Plus
-*Revolutionary Healthcare Management Platform*
+# 🏥 MediCare Plus
+*Digital Healthcare Revolution*
 
 <img src="./ChatGPT Image Jan 13, 2026, 08_48_57 AM.png" alt="MediCare Plus Banner" width="100%" />
 
 <img width="100%" alt="Healthcare Management System" src="https://github.com/user-attachments/assets/cf279b5d-8e8d-4750-9cf1-cd4fc01dba16" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=35&duration=1500&pause=500&color=0EA5E9&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=200&lines=%F0%9F%A9%BA+ADVANCED+HEALTHCARE+PLATFORM;%E2%9A%A1+REAL-TIME+MEDICAL+COMMUNICATION;%F0%9F%92%8A+SMART+MEDICATION+TRACKING;%F0%9F%94%92+SECURE+PAYMENT+PROCESSING;%F0%9F%93%8A+PREDICTIVE+HEALTH+ANALYTICS;%F0%9F%8E%AF+AI-POWERED+DIAGNOSTICS" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=800&color=DC2626&center=true&vCenter=true&multiline=true&repeat=true&width=1200&height=150&lines=🩺+COMPREHENSIVE+MEDICAL+PLATFORM;💊+INTELLIGENT+PRESCRIPTION+SYSTEM;📊+PREDICTIVE+HEALTH+MONITORING;🔒+HIPAA+COMPLIANT+ARCHITECTURE;⚡+REAL-TIME+TELEMEDICINE" />
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="800">
 
 </div>
 
-## 🌟 **REVOLUTIONARY TECH STACK**
+## 🧬 **MEDICAL TECHNOLOGY STACK**
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385061f794.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="80">
+<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="80">
+<img src="https://user-images.githubusercontent.com/74038190/212748843-c7084c71-342b-4334-81c2-64b98a4e9a52.gif" width="80">
+<img src="https://user-images.githubusercontent.com/74038190/212748849-4ed062b4-4a31-4d14-8b5a-6d4314c4c4c5.gif" width="80">
+<img src="https://user-images.githubusercontent.com/74038190/212748851-9a47ab55-8d3e-4347-98a0-e7a8b8c4e4c6.gif" width="80">
 
-**React 19** • **Node.js** • **MongoDB** • **Socket.io** • **Stripe**
+**React 19** ◦ **Node.js** ◦ **MongoDB** ◦ **Socket.io** ◦ **Stripe**
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+<img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="600">
 
-## 🏥 **MULTI-PORTAL ECOSYSTEM**
+## 🏥 **CLINICAL PORTAL ARCHITECTURE**
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500">
 
 </div>
 
-### 👨⚕️ **DOCTOR PORTAL**
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25"> **Clinical Dashboard with Real-time Analytics**  
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25"> **Advanced Patient Health Monitoring**  
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25"> **Smart Prescription Management System**  
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25"> **HD Video Consultation Platform**  
+### 👨⚕️ **PHYSICIAN DASHBOARD**
+<img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2848-41c2-8c8b-8e3d70524c42.gif" width="30"> **Advanced Clinical Decision Support**  
+<img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2848-41c2-8c8b-8e3d70524c42.gif" width="30"> **Electronic Health Record Integration**  
+<img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2848-41c2-8c8b-8e3d70524c42.gif" width="30"> **Telemedicine Consultation Suite**  
+<img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2848-41c2-8c8b-8e3d70524c42.gif" width="30"> **Prescription Management Workflow**  
 
-### 🏥 **PATIENT PORTAL**
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25"> **Personalized Health Dashboard**  
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25"> **AI-Powered Doctor Matching**  
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25"> **Secure Stripe Payment Integration**  
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25"> **Daily Medication Tracking System**  
+### 🏥 **PATIENT CARE PORTAL**
+<img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2848-41c2-8c8b-8e3d70524c42.gif" width="30"> **Personal Health Record Access**  
+<img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2848-41c2-8c8b-8e3d70524c42.gif" width="30"> **Appointment Scheduling Engine**  
+<img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2848-41c2-8c8b-8e3d70524c42.gif" width="30"> **Medication Adherence Tracking**  
+<img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2848-41c2-8c8b-8e3d70524c42.gif" width="30"> **Health Metrics Visualization**  
 
-### ⚙️ **ADMIN CONTROL CENTER**
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25"> **Advanced User Management System**  
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25"> **Doctor Verification & Approval**  
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25"> **Real-time System Analytics**  
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25"> **Security & Compliance Monitoring**  
+### ⚙️ **ADMINISTRATIVE COMMAND CENTER**
+<img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2848-41c2-8c8b-8e3d70524c42.gif" width="30"> **Healthcare Provider Management**  
+<img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2848-41c2-8c8b-8e3d70524c42.gif" width="30"> **Clinical Quality Assurance**  
+<img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2848-41c2-8c8b-8e3d70524c42.gif" width="30"> **Healthcare Analytics Dashboard**  
+<img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2848-41c2-8c8b-8e3d70524c42.gif" width="30"> **Regulatory Compliance Monitor**  
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+<img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="600">
 </div>
 
-## ⚡ **ADVANCED IMPLEMENTATION**
+## ⚡ **CLINICAL IMPLEMENTATION**
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="400">
+<img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="500">
 </div>
 
-### 🔐 **JWT AUTHENTICATION SYSTEM**
+### 🔐 **HEALTHCARE AUTHENTICATION**
 ```javascript
-// Advanced Role-Based Authentication
-const authenticateUser = async (req, res, next) => {
-  const token = req.header('Authorization')?.replace('Bearer ', '');
+// Medical-Grade Security Implementation
+const authenticateHealthcareUser = async (req, res, next) => {
+  const authToken = req.header('X-Medical-Auth')?.replace('Bearer ', '');
   
   try {
-    const decoded = jwt.verify(token, process.env.JWT_SECRET);
-    const user = await User.findById(decoded.id).select('-password');
+    const decodedCredentials = jwt.verify(authToken, process.env.MEDICAL_JWT_SECRET);
+    const healthcareUser = await User.findById(decodedCredentials.id).select('-password');
     
-    if (user.role === 'doctor' && !user.isApproved) {
-      return res.status(403).json({ message: 'Doctor approval pending' });
+    if (healthcareUser.role === 'physician' && !healthcareUser.medicalLicenseVerified) {
+      return res.status(403).json({ message: 'Medical license verification required' });
     }
     
-    req.user = user;
+    req.healthcareUser = healthcareUser;
     next();
   } catch (error) {
-    res.status(401).json({ message: 'Invalid token' });
+    res.status(401).json({ message: 'Invalid medical credentials' });
   }
 };
 ```
 
-### 🚀 **REAL-TIME SOCKET.IO ENGINE**
+### 🚀 **TELEMEDICINE COMMUNICATION ENGINE**
 ```javascript
-// Live Video Consultation & Chat System
+// Real-Time Medical Consultation System
 io.on('connection', (socket) => {
-  // Join consultation room
-  socket.on('join-consultation', (appointmentId) => {
-    socket.join(appointmentId);
-    socket.to(appointmentId).emit('doctor-joined', {
+  // Medical consultation room initialization
+  socket.on('initiate-medical-consultation', (consultationId) => {
+    socket.join(consultationId);
+    socket.to(consultationId).emit('physician-connected', {
       socketId: socket.id,
+      consultationStart: new Date()
+    });
+  });
+
+  // Clinical data transmission
+  socket.on('transmit-medical-data', (data) => {
+    io.to(data.consultationId).emit('receive-clinical-data', {
+      medicalData: data.clinicalInformation,
+      transmitter: data.healthcareProvider,
       timestamp: new Date()
     });
   });
 
-  // Real-time messaging
-  socket.on('send-message', (data) => {
-    io.to(data.appointmentId).emit('receive-message', {
-      message: data.message,
-      sender: data.sender,
-      timestamp: new Date()
-    });
-  });
-
-  // WebRTC signaling for video calls
-  socket.on('webrtc-offer', (data) => {
-    socket.to(data.appointmentId).emit('webrtc-offer', data);
+  // Medical imaging sharing
+  socket.on('share-medical-imaging', (data) => {
+    socket.to(data.consultationId).emit('receive-medical-imaging', data);
   });
 });
 ```
 
-### 💳 **STRIPE PAYMENT INTEGRATION**
+### 💳 **HEALTHCARE PAYMENT PROCESSING**
 ```javascript
-// Secure Payment Processing
-const createPaymentIntent = async (appointmentData) => {
-  const paymentIntent = await stripe.paymentIntents.create({
-    amount: appointmentData.consultationFee * 100,
+// Medical Billing Integration
+const processHealthcarePayment = async (medicalServiceData) => {
+  const medicalPaymentIntent = await stripe.paymentIntents.create({
+    amount: medicalServiceData.consultationFee * 100,
     currency: 'usd',
     metadata: {
-      appointmentId: appointmentData._id,
-      patientId: appointmentData.patient,
-      doctorId: appointmentData.doctor
+      consultationId: medicalServiceData._id,
+      patientId: medicalServiceData.patient,
+      physicianId: medicalServiceData.physician,
+      medicalServiceType: medicalServiceData.serviceType
     }
   });
 
-  await Appointment.findByIdAndUpdate(appointmentData._id, {
-    paymentIntentId: paymentIntent.id,
-    paymentStatus: 'processing'
+  await MedicalConsultation.findByIdAndUpdate(medicalServiceData._id, {
+    paymentIntentId: medicalPaymentIntent.id,
+    billingStatus: 'processing'
   });
 
-  return paymentIntent.client_secret;
+  return medicalPaymentIntent.client_secret;
 };
 ```
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+<img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="600">
 </div>
 
-## 💊 **SMART MEDICATION SYSTEM**
+## 💊 **PHARMACEUTICAL MANAGEMENT SYSTEM**
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300">
+<img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="400">
 </div>
 
 ```javascript
-// Advanced Daily Medication Tracking
-const updateMedicationStatus = async (medicationId, day, status) => {
-  const medication = await Medication.findById(medicationId);
+// Advanced Pharmaceutical Tracking
+const updatePharmaceuticalAdherence = async (medicationId, day, adherenceStatus) => {
+  const pharmaceuticalRecord = await Medication.findById(medicationId);
   
-  medication.dailyStatus.set(day.toString(), {
-    status: status,
-    timestamp: new Date(),
-    reminderSent: status === 'taken' ? false : true
+  pharmaceuticalRecord.dailyAdherence.set(day.toString(), {
+    adherenceStatus: adherenceStatus,
+    recordedTimestamp: new Date(),
+    clinicalNotificationSent: adherenceStatus === 'administered' ? false : true
   });
 
-  // Calculate adherence rate
-  const totalDays = medication.duration;
-  const takenDays = Array.from(medication.dailyStatus.values())
-    .filter(day => day.status === 'taken').length;
+  // Calculate pharmaceutical adherence metrics
+  const totalTherapyDays = pharmaceuticalRecord.treatmentDuration;
+  const adherentDays = Array.from(pharmaceuticalRecord.dailyAdherence.values())
+    .filter(day => day.adherenceStatus === 'administered').length;
   
-  medication.adherenceRate = (takenDays / totalDays) * 100;
-  await medication.save();
+  pharmaceuticalRecord.adherencePercentage = (adherentDays / totalTherapyDays) * 100;
+  await pharmaceuticalRecord.save();
   
-  // Real-time update to patient
-  io.to(medication.patient.toString()).emit('medication-updated', {
+  // Real-time clinical update
+  io.to(pharmaceuticalRecord.patient.toString()).emit('pharmaceutical-update', {
     medicationId,
-    adherenceRate: medication.adherenceRate,
-    status: status
+    adherencePercentage: pharmaceuticalRecord.adherencePercentage,
+    clinicalStatus: adherenceStatus
   });
 };
 ```
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+<img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="600">
 </div>
 
-## 🗄️ **DATABASE ARCHITECTURE**
+## 🗄️ **MEDICAL DATABASE ARCHITECTURE**
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="300">
+<img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="400">
 </div>
 
-### 👤 **USER SCHEMA**
+### 👤 **HEALTHCARE USER SCHEMA**
 ```javascript
-const userSchema = new mongoose.Schema({
-  name: { type: String, required: true, trim: true },
-  email: { type: String, required: true, unique: true },
-  password: { type: String, required: true, minlength: 6 },
-  role: { type: String, enum: ['patient', 'doctor', 'admin'] },
-  isApproved: { type: Boolean, default: false },
-  specialization: { type: String },
-  consultationFee: { type: Number, min: 0 },
-  profileImage: { type: String }
+const healthcareUserSchema = new mongoose.Schema({
+  fullName: { type: String, required: true, trim: true },
+  medicalEmail: { type: String, required: true, unique: true },
+  securePassword: { type: String, required: true, minlength: 8 },
+  healthcareRole: { type: String, enum: ['patient', 'physician', 'administrator'] },
+  medicalLicenseVerified: { type: Boolean, default: false },
+  medicalSpecialization: { type: String },
+  consultationRate: { type: Number, min: 0 },
+  medicalProfileImage: { type: String }
 }, { timestamps: true });
 ```
 
-### 📅 **APPOINTMENT SCHEMA**
+### 📅 **MEDICAL CONSULTATION SCHEMA**
 ```javascript
-const appointmentSchema = new mongoose.Schema({
-  patient: { type: ObjectId, ref: 'User', required: true },
-  doctor: { type: ObjectId, ref: 'User', required: true },
-  date: { type: Date, required: true },
-  time: { type: String, required: true },
-  status: { type: String, enum: ['pending', 'confirmed', 'completed'] },
+const medicalConsultationSchema = new mongoose.Schema({
+  patient: { type: ObjectId, ref: 'HealthcareUser', required: true },
+  physician: { type: ObjectId, ref: 'HealthcareUser', required: true },
+  consultationDate: { type: Date, required: true },
+  appointmentTime: { type: String, required: true },
+  clinicalStatus: { type: String, enum: ['scheduled', 'in-progress', 'completed'] },
   consultationFee: { type: Number, required: true },
-  paymentStatus: { type: String, enum: ['pending', 'paid'] },
+  billingStatus: { type: String, enum: ['pending', 'processed'] },
   paymentIntentId: { type: String },
-  chatMessages: [{ sender: ObjectId, message: String, timestamp: Date }]
+  clinicalNotes: [{ provider: ObjectId, note: String, timestamp: Date }]
 }, { timestamps: true });
 ```
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+<img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="600">
 </div>
 
-## 🚀 **QUICK SETUP**
+## 🚀 **MEDICAL SYSTEM DEPLOYMENT**
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300">
+<img src="https://user-images.githubusercontent.com/74038190/212750e67-435a-4b06-8b8e-9d1b4e4f8b8a.gif" width="400">
 </div>
 
-### **BACKEND SETUP**
+### **CLINICAL BACKEND CONFIGURATION**
 ```bash
 cd backend
 npm install
 
-# Environment Configuration
-MONGODB_URI=mongodb://localhost:27017/hms
-JWT_SECRET=your-jwt-secret
-STRIPE_SECRET_KEY=sk_test_your-stripe-key
-CLOUDINARY_CLOUD_NAME=your-cloudinary-name
+# Medical Environment Variables
+MONGODB_URI=mongodb://localhost:27017/medical_hms
+MEDICAL_JWT_SECRET=your-medical-jwt-secret
+STRIPE_MEDICAL_KEY=sk_test_your-medical-stripe-key
+CLOUDINARY_MEDICAL_NAME=your-medical-cloudinary-name
 
 npm run dev
 ```
 
-### **FRONTEND SETUP**
+### **HEALTHCARE FRONTEND SETUP**
 ```bash
 cd frontend
 npm install
 
-# Environment Configuration
-VITE_API_URL=http://localhost:5000/api
-VITE_SOCKET_URL=http://localhost:5000
+# Clinical Environment Configuration
+VITE_MEDICAL_API_URL=http://localhost:5000/api
+VITE_TELEMEDICINE_URL=http://localhost:5000
 
 npm run dev
 ```
 
 <div align="center">
 
-**🎯 Access: http://localhost:5173**
+**🏥 Medical Access Portal: http://localhost:5173**
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-
-</div>
-
-## 📊 **PERFORMANCE STATS**
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=DhanaBalan2001&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0EA5E9&text_color=ffffff&icon_color=0EA5E9" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DhanaBalan2001&theme=tokyonight&hide_border=true&background=0D1117&stroke=0EA5E9&ring=0EA5E9&fire=FF6B6B&currStreakLabel=0EA5E9" />
+<img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="600">
 
 </div>
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-</div>
-
-## 🌟 **TECHNOLOGY SHOWCASE**
+## 📊 **CLINICAL PERFORMANCE METRICS**
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,express,javascript,html,css,bootstrap,vite,git,github,vscode&perline=6&theme=dark" />
+<img src="https://github-readme-stats.vercel.app/api?username=DhanaBalan2001&show_icons=true&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=DC2626&text_color=ffffff&icon_color=DC2626" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DhanaBalan2001&theme=radical&hide_border=true&background=1a1a2e&stroke=DC2626&ring=DC2626&fire=FF6B6B&currStreakLabel=DC2626" />
 
 </div>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+<img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="600">
 </div>
 
-## 🎯 **KEY ACHIEVEMENTS**
+## 🌟 **MEDICAL TECHNOLOGY SHOWCASE**
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="400">
+<img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,express,javascript,html,css,bootstrap,vite,git,github,vscode&perline=6&theme=light" />
 
-**🏥 Multi-Portal Healthcare System** • **⚡ Real-time Communication** • **💊 Smart Medication Tracking**  
-**💳 Secure Payment Processing** • **📊 Health Analytics** • **🔒 Enterprise Security**  
-**📱 Responsive Design** • **🗄️ Scalable Database** • **🎯 Role-Based Access Control**
+</div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="600">
+</div>
 
-### 🏥 **Transforming Healthcare Through Innovation** 🏥
+## 🎯 **HEALTHCARE INNOVATION ACHIEVEMENTS**
 
-[![GitHub stars](https://img.shields.io/github/stars/DhanaBalan2001/HMS?style=for-the-badge&logo=github&color=yellow&labelColor=000000)](https://github.com/DhanaBalan2001/HMS)
-[![GitHub forks](https://img.shields.io/github/forks/DhanaBalan2001/HMS?style=for-the-badge&logo=github&color=blue&labelColor=000000)](https://github.com/DhanaBalan2001/HMS)
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="500">
+
+**🏥 Comprehensive Medical Platform** ◦ **⚡ Telemedicine Integration** ◦ **💊 Pharmaceutical Tracking**  
+**💳 Medical Billing System** ◦ **📊 Clinical Analytics** ◦ **🔒 HIPAA Compliance**  
+**📱 Mobile Health Interface** ◦ **🗄️ Medical Database** ◦ **🎯 Healthcare Access Control**
+
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="800">
+
+### 🏥 **Advancing Digital Healthcare Innovation** 🏥
+
+[![GitHub stars](https://img.shields.io/github/stars/DhanaBalan2001/HMS?style=for-the-badge&logo=github&color=DC2626&labelColor=1a1a2e)](https://github.com/DhanaBalan2001/HMS)
+[![GitHub forks](https://img.shields.io/github/forks/DhanaBalan2001/HMS?style=for-the-badge&logo=github&color=0EA5E9&labelColor=1a1a2e)](https://github.com/DhanaBalan2001/HMS)
 
 </div>
