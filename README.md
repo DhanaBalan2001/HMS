@@ -27,10 +27,10 @@
 <img width="400" height="400" alt="Image" src="https://github.com/user-attachments/assets/64b4928e-fd14-44be-825b-ac2f2ef51df9" />
 
 **Core Features:**
-- 📋 Medical History Access
-- 📅 Smart Appointment Booking  
-- 💬 Secure Provider Messaging
-- 💊 Medication Tracking
+-  Medical History Access
+-  Smart Appointment Booking  
+-  Secure Provider Messaging
+-  Medication Tracking
 
 </td>
 <td align="center" width="33%">
@@ -41,10 +41,10 @@
 <img width="400" height="400" alt="Image" src="https://github.com/user-attachments/assets/39d852c3-a467-4b5e-be38-405234f29ee5" />
 
 **Clinical Tools:**
-- 👥 Patient Management
-- 📝 Electronic Prescriptions
-- 🩺 Consultation Notes
-- 📊 Health Analytics
+-  Patient Management
+-  Electronic Prescriptions
+-  Consultation Notes
+-  Health Analytics
 
 </td>
 <td align="center" width="33%">
@@ -55,10 +55,10 @@
 <img width="500" height="500" alt="Image" src="https://github.com/user-attachments/assets/952d0c8a-fa56-4030-8c98-3f39c00a4e66" />
 
 **Management Suite:**
-- 👨‍⚕️ Provider Oversight
-- 📈 System Analytics
-- 💰 Revenue Tracking
-- 🔒 Security Monitoring
+-  Provider Oversight
+-  System Analytics
+-  Revenue Tracking
+-  Security Monitoring
 
 </td>
 </tr>
