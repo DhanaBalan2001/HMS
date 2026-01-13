@@ -46,39 +46,87 @@ const io = new Server(server, {
 });
 
 // Middleware
-app.use(cors());
+app.use(cors({
+  origin: process.env.NODE_ENV === 'production' 
+    ? ['https://your-frontend-url.netlify.app'] 
+    : ['http://localhost:5173'],
+  credentials: true
+}));
 app.use(express.json({ limit: '10mb' }));
 app.use(express.urlencoded({ extended: true, limit: '10mb' }));
 
 // Routes
-app.use('/api/auth', authRoutes);
-app.use('/api/appointments', appointmentRoutes);
+app.use('/auth', authRoutes);
+app.use('/appointments', appointmentRoutes);
 app.use('/uploads', express.static('uploads'));
-app.use('/api/health-records', healthRecordRoutes);
-app.use('/api/doctors', doctorRoutes);
-app.use('/api/admin', adminRoutes);
-app.use('/api/admin', prescriptionRoutes);
-app.use('/api/notifications', notificationRoutes);
-app.use('/api/reviews', reviewRoutes);
-app.use('/api/medications', medicationRoutes);
-app.use('/api/health-scores', healthScoreRoutes);
+app.use('/health-records', healthRecordRoutes);
+app.use('/doctors', doctorRoutes);
+app.use('/admin', adminRoutes);
+app.use('/admin', prescriptionRoutes);
+app.use('/notifications', notificationRoutes);
+app.use('/reviews', reviewRoutes);
+app.use('/medications', medicationRoutes);
+app.use('/health-scores', healthScoreRoutes);
 
 // Schedule missed medication check every 30 minutes
 setInterval(markMissedMedications, 30 * 60 * 1000);
 
+// Root route - API Documentation
+app.get('/', (req, res) => {
+  res.json({
+    title: "HMS API Documentation",
+    version: "1.0.0",
+    endpoints: {
+      auth: "POST /auth/login, POST /auth/register",
+      appointments: "GET /appointments, POST /appointments",
+      doctors: "GET /doctors",
+      health: "GET /health"
+    }
+  });
+});
+
+// API Documentation
+app.get('/docs', (req, res) => {
+  res.json({
+    title: "HMS API Documentation",
+    version: "1.0.0",
+    baseUrl: req.protocol + '://' + req.get('host'),
+    endpoints: {
+      auth: {
+        login: "POST /auth/login",
+        register: "POST /auth/register",
+        profile: "GET /auth/profile"
+      },
+      appointments: {
+        create: "POST /appointments",
+        list: "GET /appointments",
+        update: "PUT /appointments/:id"
+      },
+      doctors: {
+        list: "GET /doctors",
+        profile: "GET /doctors/:id"
+      },
+      patients: {
+        records: "GET /health-records",
+        medications: "GET /medications"
+      }
+    }
+  });
+});
+
 // Health check route
-app.get('/api/health', (req, res) => {
+app.get('/health', (req, res) => {
   res.json({ message: 'HMS Backend is running!' });
 });
 
 // Debug route for health records
-app.get('/api/health-records-test', (req, res) => {
+app.get('/health-records-test', (req, res) => {
   console.log('Test route reached');
   res.json({ message: 'Test route working' });
 });
 
 // Direct test route
-app.post('/api/test-upload', (req, res) => {
+app.post('/test-upload', (req, res) => {
   console.log('Direct test route hit');
   res.json({ success: true, message: 'Direct test working' });
 });
