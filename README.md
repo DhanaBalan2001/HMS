@@ -24,7 +24,7 @@
 ### 🏥 **PATIENT PORTAL**
 *Empowering Health Management*
 
-<img src="./Patient Dashboard.png" width="300" style="border-radius: 15px; box-shadow: 0 8px 32px rgba(231, 76, 60, 0.3);"/>
+<img width="200" height="200" alt="Image" src="https://github.com/user-attachments/assets/64b4928e-fd14-44be-825b-ac2f2ef51df9" />
 
 **Core Features:**
 - 📋 Medical History Access
