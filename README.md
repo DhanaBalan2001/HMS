@@ -1,415 +1,306 @@
-<!--- MediCare Plus Healthcare Management System --->
-
 <div align="center">
 
 # 🩺 MediCare Plus
-## *Intelligent Healthcare Management Platform*
+*Revolutionary Healthcare Management Platform*
 
 <img src="./ChatGPT Image Jan 13, 2026, 08_48_57 AM.png" alt="MediCare Plus Banner" width="100%" />
 
 <img width="100%" alt="Healthcare Management System" src="https://github.com/user-attachments/assets/cf279b5d-8e8d-4750-9cf1-cd4fc01dba16" />
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=35&duration=1500&pause=500&color=0EA5E9&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=200&lines=%F0%9F%A9%BA+ADVANCED+HEALTHCARE+PLATFORM;%E2%9A%A1+REAL-TIME+MEDICAL+COMMUNICATION;%F0%9F%92%8A+SMART+MEDICATION+TRACKING;%F0%9F%94%92+SECURE+PAYMENT+PROCESSING;%F0%9F%93%8A+PREDICTIVE+HEALTH+ANALYTICS;%F0%9F%8E%AF+AI-POWERED+DIAGNOSTICS" />
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
 </div>
 
----
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-## 🏥 **What We Built**
-
-A comprehensive healthcare management system connecting **patients**, **doctors**, and **administrators** through a unified digital platform.
-
-### **Core Functionality**
-- **Multi-Portal System** (Patient/Doctor/Admin)
-- **Real-time Video Consultations** 
-- **Smart Appointment Scheduling**
-- **Medication Tracking System**
-- **Secure Payment Processing**
-- **Health Records Management**
-
-</td>
-<td width="50%" valign="top">
-
-## ⚡ **Tech Stack Used**
-
-```javascript
-Frontend: React 19 + Vite + Bootstrap 5
-Backend:  Node.js + Express + MongoDB
-Auth:     JWT + Bcrypt
-Payment:  Stripe API
-Storage:  Cloudinary
-Realtime: Socket.io + WebRTC
-```
-
-### **Key Integrations**
-- **Stripe** for payment processing
-- **Socket.io** for real-time communication
-- **MongoDB** with Mongoose ODM
-- **JWT** authentication system
-- **Cloudinary** for file uploads
-
-</td>
-</tr>
-</table>
-
----
-
-## 🎯 **System Overview**
+## 🌟 **REVOLUTIONARY TECH STACK**
 
 <div align="center">
 
-```
-┌─────────────────┐    ┌─────────────────┐    ┌─────────────────┐
-│   👥 PATIENTS   │    │   👨‍⚕️ DOCTORS    │    │   ⚙️ ADMINS     │
-│                 │    │                 │    │                 │
-│ • Book Appts    │    │ • Manage Appts  │    │ • User Control  │
-│ • Pay Online    │    │ • Video Calls   │    │ • Analytics     │
-│ • Track Meds    │    │ • Prescriptions │    │ • Approvals     │
-│ • Health Score  │    │ • Patient Data  │    │ • Reports       │
-└─────────────────┘    └─────────────────┘    └─────────────────┘
-         │                       │                       │
-         └───────────────────────┼───────────────────────┘
-                                 │
-                    ┌─────────────────┐
-                    │  🔄 REAL-TIME   │
-                    │   SYNC ENGINE   │
-                    │                 │
-                    │ • Socket.io     │
-                    │ • WebRTC        │
-                    │ • Live Updates  │
-                    └─────────────────┘
-```
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385061f794.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="100">
+
+**React 19** • **Node.js** • **MongoDB** • **Socket.io** • **Stripe**
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
-## 🛠️ **Implementation Details**
+## 🏥 **MULTI-PORTAL ECOSYSTEM**
 
-<table>
-<tr>
-<td width="50%">
+<div align="center">
 
-### **Authentication Flow**
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
+
+</div>
+
+### 👨⚕️ **DOCTOR PORTAL**
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25"> **Clinical Dashboard with Real-time Analytics**  
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25"> **Advanced Patient Health Monitoring**  
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25"> **Smart Prescription Management System**  
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25"> **HD Video Consultation Platform**  
+
+### 🏥 **PATIENT PORTAL**
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25"> **Personalized Health Dashboard**  
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25"> **AI-Powered Doctor Matching**  
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25"> **Secure Stripe Payment Integration**  
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25"> **Daily Medication Tracking System**  
+
+### ⚙️ **ADMIN CONTROL CENTER**
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25"> **Advanced User Management System**  
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25"> **Doctor Verification & Approval**  
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25"> **Real-time System Analytics**  
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25"> **Security & Compliance Monitoring**  
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+</div>
+
+## ⚡ **ADVANCED IMPLEMENTATION**
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="400">
+</div>
+
+### 🔐 **JWT AUTHENTICATION SYSTEM**
 ```javascript
-// JWT-based auth with role checking
-const auth = async (req, res, next) => {
-  const token = req.header('Authorization')
-    ?.replace('Bearer ', '');
+// Advanced Role-Based Authentication
+const authenticateUser = async (req, res, next) => {
+  const token = req.header('Authorization')?.replace('Bearer ', '');
   
-  const decoded = jwt.verify(token, JWT_SECRET);
-  const user = await User.findById(decoded.id);
-  
-  if (user.role === 'doctor' && !user.isApproved) {
-    return res.status(403).json({ 
-      message: 'Doctor approval pending' 
-    });
+  try {
+    const decoded = jwt.verify(token, process.env.JWT_SECRET);
+    const user = await User.findById(decoded.id).select('-password');
+    
+    if (user.role === 'doctor' && !user.isApproved) {
+      return res.status(403).json({ message: 'Doctor approval pending' });
+    }
+    
+    req.user = user;
+    next();
+  } catch (error) {
+    res.status(401).json({ message: 'Invalid token' });
   }
-  
-  req.user = user;
-  next();
 };
 ```
 
-</td>
-<td width="50%">
-
-### **Real-time Communication**
+### 🚀 **REAL-TIME SOCKET.IO ENGINE**
 ```javascript
-// Socket.io for live consultations
+// Live Video Consultation & Chat System
 io.on('connection', (socket) => {
+  // Join consultation room
   socket.on('join-consultation', (appointmentId) => {
     socket.join(appointmentId);
-    socket.to(appointmentId).emit('doctor-joined');
+    socket.to(appointmentId).emit('doctor-joined', {
+      socketId: socket.id,
+      timestamp: new Date()
+    });
   });
-  
+
+  // Real-time messaging
   socket.on('send-message', (data) => {
-    io.to(data.appointmentId).emit('new-message', {
+    io.to(data.appointmentId).emit('receive-message', {
       message: data.message,
       sender: data.sender,
       timestamp: new Date()
     });
   });
+
+  // WebRTC signaling for video calls
+  socket.on('webrtc-offer', (data) => {
+    socket.to(data.appointmentId).emit('webrtc-offer', data);
+  });
 });
 ```
 
-</td>
-</tr>
-</table>
-
----
-
-## 💳 **Payment Integration**
-
-<div align="center">
-
-**Stripe Payment Flow Implementation**
-
-</div>
-
+### 💳 **STRIPE PAYMENT INTEGRATION**
 ```javascript
-// Create payment intent for appointments
-const createPayment = async (appointmentId) => {
-  const appointment = await Appointment.findById(appointmentId);
-  
+// Secure Payment Processing
+const createPaymentIntent = async (appointmentData) => {
   const paymentIntent = await stripe.paymentIntents.create({
-    amount: appointment.consultationFee * 100, // Convert to cents
+    amount: appointmentData.consultationFee * 100,
     currency: 'usd',
-    metadata: { 
-      appointmentId: appointment._id.toString(),
-      patientId: appointment.patient.toString()
+    metadata: {
+      appointmentId: appointmentData._id,
+      patientId: appointmentData.patient,
+      doctorId: appointmentData.doctor
     }
   });
-  
-  appointment.paymentIntentId = paymentIntent.id;
-  await appointment.save();
-  
+
+  await Appointment.findByIdAndUpdate(appointmentData._id, {
+    paymentIntentId: paymentIntent.id,
+    paymentStatus: 'processing'
+  });
+
   return paymentIntent.client_secret;
 };
 ```
 
----
-
-## 📊 **Database Schema**
-
-<table>
-<tr>
-<td width="33%">
-
-### **Users Collection**
-```javascript
-{
-  name: String,
-  email: String,
-  password: String, // bcrypt hashed
-  role: ['patient', 'doctor', 'admin'],
-  isApproved: Boolean,
-  specialization: String,
-  consultationFee: Number,
-  profileImage: String
-}
-```
-
-</td>
-<td width="33%">
-
-### **Appointments Collection**
-```javascript
-{
-  patient: ObjectId,
-  doctor: ObjectId,
-  date: Date,
-  time: String,
-  status: String,
-  consultationFee: Number,
-  paymentStatus: String,
-  paymentIntentId: String,
-  chatMessages: Array
-}
-```
-
-</td>
-<td width="33%">
-
-### **Medications Collection**
-```javascript
-{
-  patient: ObjectId,
-  doctor: ObjectId,
-  name: String,
-  dosage: String,
-  frequency: String,
-  duration: Number,
-  dailyStatus: Map,
-  adherenceRate: Number
-}
-```
-
-</td>
-</tr>
-</table>
-
----
-
-## 🚀 **Getting Started**
-
 <div align="center">
-
-### **Quick Setup Guide**
-
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 </div>
 
-<table>
-<tr>
-<td width="50%">
+## 💊 **SMART MEDICATION SYSTEM**
 
-### **Backend Setup**
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300">
+</div>
+
+```javascript
+// Advanced Daily Medication Tracking
+const updateMedicationStatus = async (medicationId, day, status) => {
+  const medication = await Medication.findById(medicationId);
+  
+  medication.dailyStatus.set(day.toString(), {
+    status: status,
+    timestamp: new Date(),
+    reminderSent: status === 'taken' ? false : true
+  });
+
+  // Calculate adherence rate
+  const totalDays = medication.duration;
+  const takenDays = Array.from(medication.dailyStatus.values())
+    .filter(day => day.status === 'taken').length;
+  
+  medication.adherenceRate = (takenDays / totalDays) * 100;
+  await medication.save();
+  
+  // Real-time update to patient
+  io.to(medication.patient.toString()).emit('medication-updated', {
+    medicationId,
+    adherenceRate: medication.adherenceRate,
+    status: status
+  });
+};
+```
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+</div>
+
+## 🗄️ **DATABASE ARCHITECTURE**
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="300">
+</div>
+
+### 👤 **USER SCHEMA**
+```javascript
+const userSchema = new mongoose.Schema({
+  name: { type: String, required: true, trim: true },
+  email: { type: String, required: true, unique: true },
+  password: { type: String, required: true, minlength: 6 },
+  role: { type: String, enum: ['patient', 'doctor', 'admin'] },
+  isApproved: { type: Boolean, default: false },
+  specialization: { type: String },
+  consultationFee: { type: Number, min: 0 },
+  profileImage: { type: String }
+}, { timestamps: true });
+```
+
+### 📅 **APPOINTMENT SCHEMA**
+```javascript
+const appointmentSchema = new mongoose.Schema({
+  patient: { type: ObjectId, ref: 'User', required: true },
+  doctor: { type: ObjectId, ref: 'User', required: true },
+  date: { type: Date, required: true },
+  time: { type: String, required: true },
+  status: { type: String, enum: ['pending', 'confirmed', 'completed'] },
+  consultationFee: { type: Number, required: true },
+  paymentStatus: { type: String, enum: ['pending', 'paid'] },
+  paymentIntentId: { type: String },
+  chatMessages: [{ sender: ObjectId, message: String, timestamp: Date }]
+}, { timestamps: true });
+```
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+</div>
+
+## 🚀 **QUICK SETUP**
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300">
+</div>
+
+### **BACKEND SETUP**
 ```bash
 cd backend
 npm install
 
-# Create .env file
-MONGODB_URI=your_mongodb_connection
-JWT_SECRET=your_jwt_secret
-STRIPE_SECRET_KEY=your_stripe_key
-CLOUDINARY_CLOUD_NAME=your_cloudinary_name
-CLOUDINARY_API_KEY=your_api_key
-CLOUDINARY_API_SECRET=your_secret
+# Environment Configuration
+MONGODB_URI=mongodb://localhost:27017/hms
+JWT_SECRET=your-jwt-secret
+STRIPE_SECRET_KEY=sk_test_your-stripe-key
+CLOUDINARY_CLOUD_NAME=your-cloudinary-name
 
 npm run dev
 ```
 
-</td>
-<td width="50%">
-
-### **Frontend Setup**
+### **FRONTEND SETUP**
 ```bash
 cd frontend
 npm install
 
-# Create .env file
+# Environment Configuration
 VITE_API_URL=http://localhost:5000/api
 VITE_SOCKET_URL=http://localhost:5000
 
 npm run dev
 ```
 
-**Access:** http://localhost:5173
-
-</td>
-</tr>
-</table>
-
----
-
-## 🔒 **Security Implementation**
-
 <div align="center">
 
-| Security Layer | Implementation | Status |
-|---|---|---|
-| **Authentication** | JWT with 7-day expiry | ✅ |
-| **Password Security** | Bcrypt with 12 rounds | ✅ |
-| **Role-based Access** | Patient/Doctor/Admin roles | ✅ |
-| **Input Validation** | Mongoose schema validation | ✅ |
-| **CORS Protection** | Express CORS middleware | ✅ |
-| **Environment Variables** | Sensitive data protection | ✅ |
+**🎯 Access: http://localhost:5173**
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
 </div>
 
----
-
-## 📱 **Key Features Implemented**
-
-<table>
-<tr>
-<td width="25%" align="center">
-
-### 👥 **Patient Features**
-- Account registration
-- Doctor search & booking
-- Stripe payment integration
-- Medication tracking
-- Health score monitoring
-- Video consultations
-
-</td>
-<td width="25%" align="center">
-
-### 👨‍⚕️ **Doctor Features**
-- Profile management
-- Appointment scheduling
-- Patient health scores
-- Prescription management
-- Video consultations
-- Patient reviews
-
-</td>
-<td width="25%" align="center">
-
-### ⚙️ **Admin Features**
-- User management
-- Doctor approvals
-- System analytics
-- Platform monitoring
-- Security oversight
-- Report generation
-
-</td>
-<td width="25%" align="center">
-
-### 🔄 **Real-time Features**
-- Live video calls
-- Instant messaging
-- Appointment updates
-- Notification system
-- Status synchronization
-- WebRTC signaling
-
-</td>
-</tr>
-</table>
-
----
-
-## 📈 **Performance Metrics**
+## 📊 **PERFORMANCE STATS**
 
 <div align="center">
 
-```
-API Response Time: < 200ms
-Database Queries: Optimized with indexing
-Real-time Latency: < 50ms (Socket.io)
-Payment Processing: Stripe webhook integration
-File Upload: Cloudinary CDN
-Authentication: JWT token validation
-```
+<img src="https://github-readme-stats.vercel.app/api?username=DhanaBalan2001&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0EA5E9&text_color=ffffff&icon_color=0EA5E9" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DhanaBalan2001&theme=tokyonight&hide_border=true&background=0D1117&stroke=0EA5E9&ring=0EA5E9&fire=FF6B6B&currStreakLabel=0EA5E9" />
 
 </div>
 
----
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+</div>
 
-## 🎯 **Project Structure**
-
-```
-HMS/
-├── backend/
-│   ├── controllers/     # Business logic
-│   ├── models/         # Database schemas
-│   ├── routes/         # API endpoints
-│   ├── middleware/     # Auth & validation
-│   └── utils/          # Helper functions
-│
-├── frontend/
-│   ├── src/
-│   │   ├── components/ # React components
-│   │   ├── pages/      # Route pages
-│   │   ├── styles/     # CSS files
-│   │   └── utils/      # Frontend utilities
-│   └── public/         # Static assets
-```
-
----
+## 🌟 **TECHNOLOGY SHOWCASE**
 
 <div align="center">
 
-## 🌟 **Built With Modern Technologies**
+<img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,express,javascript,html,css,bootstrap,vite,git,github,vscode&perline=6&theme=dark" />
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+</div>
 
----
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+</div>
 
-### **Healthcare Management Made Simple** 🏥
+## 🎯 **KEY ACHIEVEMENTS**
 
-*Connecting patients, doctors, and administrators through intelligent technology*
+<div align="center">
 
-[![GitHub stars](https://img.shields.io/github/stars/DhanaBalan2001/HMS?style=social)](https://github.com/DhanaBalan2001/HMS)
+<img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="400">
+
+**🏥 Multi-Portal Healthcare System** • **⚡ Real-time Communication** • **💊 Smart Medication Tracking**  
+**💳 Secure Payment Processing** • **📊 Health Analytics** • **🔒 Enterprise Security**  
+**📱 Responsive Design** • **🗄️ Scalable Database** • **🎯 Role-Based Access Control**
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+### 🏥 **Transforming Healthcare Through Innovation** 🏥
+
+[![GitHub stars](https://img.shields.io/github/stars/DhanaBalan2001/HMS?style=for-the-badge&logo=github&color=yellow&labelColor=000000)](https://github.com/DhanaBalan2001/HMS)
+[![GitHub forks](https://img.shields.io/github/forks/DhanaBalan2001/HMS?style=for-the-badge&logo=github&color=blue&labelColor=000000)](https://github.com/DhanaBalan2001/HMS)
 
 </div>
