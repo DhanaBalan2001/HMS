@@ -8,7 +8,7 @@
 
 </div>
 
-
+<br>
 
 
 <div align="center">
@@ -55,10 +55,10 @@
 <img width="500" height="500" alt="Image" src="https://github.com/user-attachments/assets/952d0c8a-fa56-4030-8c98-3f39c00a4e66" />
 
 **Management Suite:**
--  Provider Oversight
--  System Analytics
--  Revenue Tracking
--  Security Monitoring
+-     Provider Oversight
+-     System Analytics
+-     Revenue Tracking
+-     Security Monitoring
 
 </td>
 </tr>
