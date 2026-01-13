@@ -268,11 +268,11 @@ Enterprise-grade encryption and access controls
 
 <div align="center">
 
-**🏥 HEALTHCARE NEXUS** • *Transforming Medical Care Through Technology*
+**🏥 MEDICARE PLUS** • *Transforming Medical Care Through Technology*
 
 <br>
 
-[![Made with ❤️](https://img.shields.io/badge/Made%20with-❤️-red.svg)]([https://github.com/yourusername](https://github.com/hemahemapathi))
+[![Made with ❤️](https://img.shields.io/badge/Made%20with-❤️-red.svg)]([https://github.com/hemahemapathi])
 
 
 </div>
