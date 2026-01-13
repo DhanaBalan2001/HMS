@@ -38,7 +38,7 @@
 ### 👨‍⚕️ **DOCTOR DASHBOARD**
 *Clinical Excellence Platform*
 
-<img src="./Doctor Dashboard.png" width="300" style="border-radius: 15px; box-shadow: 0 8px 32px rgba(52, 152, 219, 0.3);"/>
+<img width="400" height="400" alt="Image" src="https://github.com/user-attachments/assets/39d852c3-a467-4b5e-be38-405234f29ee5" />
 
 **Clinical Tools:**
 - 👥 Patient Management
@@ -52,7 +52,7 @@
 ### ⚙️ **ADMIN CONTROL**
 *System Command Center*
 
-<img src="./Admin Dashboard.png" width="300" style="border-radius: 15px; box-shadow: 0 8px 32px rgba(39, 174, 96, 0.3);"/>
+<img width="500" height="500" alt="Image" src="https://github.com/user-attachments/assets/952d0c8a-fa56-4030-8c98-3f39c00a4e66" />
 
 **Management Suite:**
 - 👨‍⚕️ Provider Oversight
