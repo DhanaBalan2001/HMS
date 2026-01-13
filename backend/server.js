@@ -55,16 +55,16 @@ app.use(express.urlencoded({ extended: true, limit: '10mb' }));
 
 // Routes
 app.use('/api/auth', authRoutes);
-app.use('/appointments', appointmentRoutes);
-app.use('/uploads', express.static('uploads'));
-app.use('/health-records', healthRecordRoutes);
-app.use('/doctors', doctorRoutes);
-app.use('/admin', adminRoutes);
-app.use('/admin', prescriptionRoutes);
-app.use('/notifications', notificationRoutes);
-app.use('/reviews', reviewRoutes);
-app.use('/medications', medicationRoutes);
-app.use('/health-scores', healthScoreRoutes);
+app.use('/api/appointments', appointmentRoutes);
+app.use('/api/uploads', express.static('uploads'));
+app.use('/api/health-records', healthRecordRoutes);
+app.use('/api/doctors', doctorRoutes);
+app.use('/api/admin', adminRoutes);
+app.use('/api/admin', prescriptionRoutes);
+app.use('/api/notifications', notificationRoutes);
+app.use('/api/reviews', reviewRoutes);
+app.use('/api/medications', medicationRoutes);
+app.use('/api/health-scores', healthScoreRoutes);
 
 // Schedule missed medication check every 30 minutes
 setInterval(markMissedMedications, 30 * 60 * 1000);
