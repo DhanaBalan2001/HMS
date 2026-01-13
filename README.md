@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🩺 HEALTHCARE NEXUS
+# 🩺 MEDICARE PLUS
 ### *Revolutionary Medical Platform*
 
 <img width="500" height="500" alt="Image" src="https://github.com/user-attachments/assets/cf279b5d-8e8d-4750-9cf1-cd4fc01dba16" />
@@ -9,7 +9,6 @@
 
 </div>
 
----
 
 <div align="center">
 
@@ -27,10 +26,10 @@
 <img width="400" height="400" alt="Image" src="https://github.com/user-attachments/assets/64b4928e-fd14-44be-825b-ac2f2ef51df9" />
 
 **Core Features:**
-- Medical History Access
-- Smart Appointment Booking  
-- Secure Provider Messaging
-- Medication Tracking
+-      Medical History Access
+-      Smart Appointment Booking  
+-      Secure Provider Messaging
+-      Medication Tracking
 
 </td>
 <td align="center" width="33%">
@@ -64,7 +63,6 @@
 </tr>
 </table>
 
----
 
 <div align="center">
 
@@ -110,7 +108,6 @@ Role Access  ████████████ 100%
 
 </div>
 
----
 
 <div align="center">
 
@@ -154,7 +151,6 @@ npm run dev
 </tr>
 </table>
 
----
 
 <div align="center">
 
@@ -168,7 +164,6 @@ npm run dev
 
 </div>
 
----
 
 <div align="center">
 
@@ -252,7 +247,7 @@ Enterprise-grade encryption and access controls
 
 **🏥 HEALTHCARE NEXUS** • *Transforming Medical Care Through Technology*
 
-[![Made with ❤️](https://img.shields.io/badge/Made%20with-❤️-red.svg)](https://github.com/yourusername)
+[![Made with ❤️](https://img.shields.io/badge/Made%20with-❤️-red.svg)]([https://github.com/yourusername](https://github.com/hemahemapathi))
 
 
 </div>
