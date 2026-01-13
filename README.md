@@ -27,10 +27,10 @@
 <img width="400" height="400" alt="Image" src="https://github.com/user-attachments/assets/64b4928e-fd14-44be-825b-ac2f2ef51df9" />
 
 **Core Features:**
--  Medical History Access
--  Smart Appointment Booking  
--  Secure Provider Messaging
--  Medication Tracking
+- Medical History Access
+- Smart Appointment Booking  
+- Secure Provider Messaging
+- Medication Tracking
 
 </td>
 <td align="center" width="33%">
@@ -41,10 +41,10 @@
 <img width="400" height="400" alt="Image" src="https://github.com/user-attachments/assets/39d852c3-a467-4b5e-be38-405234f29ee5" />
 
 **Clinical Tools:**
--  Patient Management
--  Electronic Prescriptions
--  Consultation Notes
--  Health Analytics
+- Patient Management
+- Electronic Prescriptions
+- Consultation Notes
+- Health Analytics
 
 </td>
 <td align="center" width="33%">
@@ -213,7 +213,6 @@ Enterprise-grade encryption and access controls
 
 </div>
 
----
 
 <div align="center">
 
@@ -248,14 +247,12 @@ Enterprise-grade encryption and access controls
 
 </div>
 
----
 
 <div align="center">
 
 **🏥 HEALTHCARE NEXUS** • *Transforming Medical Care Through Technology*
 
 [![Made with ❤️](https://img.shields.io/badge/Made%20with-❤️-red.svg)](https://github.com/yourusername)
-[![HIPAA Compliant](https://img.shields.io/badge/HIPAA-Compliant-green.svg)](https://www.hhs.gov/hipaa)
-[![Secure](https://img.shields.io/badge/Security-Enterprise-blue.svg)](https://stripe.com/security)
+
 
 </div>
