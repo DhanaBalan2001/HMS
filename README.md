@@ -4,6 +4,7 @@
 ### *Revolutionary Medical Platform*
 
 <img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/cf279b5d-8e8d-4750-9cf1-cd4fc01dba16" />
+
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=E74C3C&center=true&vCenter=true&width=800&lines=🏥+PATIENT+CARE+EXCELLENCE;👨‍⚕️+CLINICAL+DECISION+SUPPORT;⚙️+ADMINISTRATIVE+CONTROL;💊+MEDICATION+MANAGEMENT;📊+HEALTH+ANALYTICS)
 
 </div>
