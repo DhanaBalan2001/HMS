@@ -64,7 +64,7 @@
 </tr>
 </table>
 
-
+<br>
 
 
 <div align="center">
@@ -111,7 +111,7 @@ Role Access  ████████████ 100%
 
 </div>
 
-
+<br>
 
   
 <div align="center">
@@ -156,6 +156,7 @@ npm run dev
 </tr>
 </table>
 
+<br>
 
 <div align="center">
 
@@ -169,6 +170,7 @@ npm run dev
 
 </div>
 
+<br>
 
 <div align="center">
 
@@ -213,6 +215,7 @@ Enterprise-grade encryption and access controls
 
 </div>
 
+<br>
 
 <div align="center">
 
@@ -247,6 +250,7 @@ Enterprise-grade encryption and access controls
 
 </div>
 
+<br>
 
 <div align="center">
 
