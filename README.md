@@ -3,7 +3,7 @@
 # 🏥 MediCare Plus AI
 ### *Advanced Healthcare Management Ecosystem*
 
-<img src="./ChatGPT Image Jan 13, 2026, 08_48_57 AM.png" alt="MediCare Plus Banner" width="100%" />
+<img src="./ChatGPT Image Jan 13, 2026, 08_48_57 AM.png" width="50%" />
 
 <img width="100%" alt="Healthcare Management System" src="https://github.com/user-attachments/assets/cf279b5d-8e8d-4750-9cf1-cd4fc01dba16" />
 
