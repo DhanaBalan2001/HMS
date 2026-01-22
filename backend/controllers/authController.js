@@ -46,12 +46,12 @@ export const register = async (req, res) => {
     const user = await User.create(userData);
 
     // Send notification to admins for ALL registrations
-    await notifyAllAdmins(
-      `New ${role.charAt(0).toUpperCase() + role.slice(1)} Registration`,
-      `${name} (${email}) has registered as a ${role}. Phone: ${phone || 'Not provided'}`,
-      'info',
-      { userId: user._id, userRole: role, action: 'registration' }
-    );
+   notifyAllAdmins(
+  `New ${role.charAt(0).toUpperCase() + role.slice(1)} Registration`,
+  `${name} (${email}) has registered as a ${role}. Phone: ${phone || 'Not provided'}`,
+  'info',
+  { userId: user._id, userRole: role, action: 'registration' }
+  ).catch(err => console.log('Notification failed:', err));
 
     const token = generateToken(user._id);
 
