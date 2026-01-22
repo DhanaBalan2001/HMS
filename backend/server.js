@@ -40,10 +40,12 @@ const app = express();
 const server = createServer(app);
 const io = new Server(server, {
   cors: {
-    origin: "https://healthapp-hemapathi.netlify.app",
-    methods: ["GET", "POST"]
+    origin: ["https://healthapp-hemapathi.netlify.app", "http://localhost:5173"],
+    methods: ["GET", "POST"],
+    credentials: true
   }
 });
+
 
 // Middleware
 app.use(cors({
