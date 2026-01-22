@@ -56,6 +56,7 @@ app.use(cors({
 }));
 app.use(express.json({ limit: '10mb' }));
 app.use(express.urlencoded({ extended: true, limit: '10mb' }));
+app.options('*', cors());
 
 // Routes
 app.use('/api/auth', authRoutes);
