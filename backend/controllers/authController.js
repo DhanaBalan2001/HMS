@@ -96,12 +96,12 @@ export const login = async (req, res) => {
     }
 
     // Notify admins about login activity
-    await notifyAllAdmins(
-      `${user.role.charAt(0).toUpperCase() + user.role.slice(1)} Login`,
-      `${user.name} (${user.email}) has logged into the system`,
-      'info',
-      { userId: user._id, userRole: user.role, action: 'login' }
-    );
+    // await notifyAllAdmins(
+    //   `${user.role.charAt(0).toUpperCase() + user.role.slice(1)} Login`,
+    //   `${user.name} (${user.email}) has logged into the system`,
+    //   'info',
+    //   { userId: user._id, userRole: user.role, action: 'login' }
+    // );
 
     const token = generateToken(user._id);
 
